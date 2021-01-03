@@ -1,4 +1,4 @@
-﻿Hi, this repo had just been forked by Shao Wee!
+﻿Hi, this repo had just been forked by Lee Shao Wee!
 
 ![](https://javascript30.com/images/JS3-social-share.png)
 
