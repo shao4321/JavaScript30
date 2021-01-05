@@ -1,4 +1,5 @@
 ﻿Hi, this repo had just been forked by Lee Shao Wee!
+Clone 1.
 
 ![](https://javascript30.com/images/JS3-social-share.png)
 
