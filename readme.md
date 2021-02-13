@@ -1,6 +1,10 @@
 ﻿Hi, this repo had just been forked by Lee Shao Wee!
 Clone 1.
 
+Completed this course!
+
+Course Link: https://courses.wesbos.com/account
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
